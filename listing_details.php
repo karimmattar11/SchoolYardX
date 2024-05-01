@@ -68,7 +68,7 @@
                     echo '<p class="condition">Condition: ' . $row["Condition"] . '</p>'; 
                     echo '<p class="category">Category: ' . $row["Category"] . '</p>';
                     echo '<p class="deliverypref">Delivery Preference: ' . $row["DeliveryPreferences"] . '</p>'; 
-                    echo '<p class="location">Lication: ' . $row["Location"] . '</p>'; 
+                    echo '<p class="location">Location: ' . $row["Location"] . '</p>'; 
                     echo '<p class="soldstatus">Status: ' . $row["SoldStatus"] . '</p>';  
                     // Display other details as needed
                     echo '</div>';
